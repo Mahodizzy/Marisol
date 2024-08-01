@@ -3,7 +3,7 @@ html, body{
 }
 
 .container {
-    width: 50vw;
+    width: 75vw;
     max-width: 1000px;
     min-width: 320px;
     margin: auto;
